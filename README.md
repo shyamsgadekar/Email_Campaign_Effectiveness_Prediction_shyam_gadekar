@@ -1,2 +1,2 @@
-# Email_Campaign_Effectiveness_Prediction_shyam_gadekar
+# Email_Campaign_Effectiveness_Prediction
 Email Campaign Effectiveness Prediction
